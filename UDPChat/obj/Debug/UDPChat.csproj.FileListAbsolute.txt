@@ -1,0 +1,30 @@
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\UDPChat\UDPChat\bin\Debug\UDPChat.exe.config
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\UDPChat\UDPChat\bin\Debug\UDPChat.exe
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\UDPChat\UDPChat\bin\Debug\UDPChat.pdb
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\UDPChat\UDPChat\obj\Debug\UDPChat.csprojResolveAssemblyReference.cache
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\UDPChat\UDPChat\obj\Debug\UDPChat.Form1.resources
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\UDPChat\UDPChat\obj\Debug\UDPChat.Properties.Resources.resources
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\UDPChat\UDPChat\obj\Debug\UDPChat.csproj.GenerateResource.Cache
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\UDPChat\UDPChat\obj\Debug\UDPChat.exe
+c:\users\коваленко.владимир\documents\visual studio 2015\Projects\UDPChat\UDPChat\obj\Debug\UDPChat.pdb
+C:\Users\коваленко.владимир\Desktop\Новая папка\UDPChat\UDPChat\UDPChat\bin\Debug\UDPChat.exe.config
+C:\Users\коваленко.владимир\Desktop\Новая папка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.exe
+C:\Users\коваленко.владимир\Desktop\Новая папка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.pdb
+C:\Users\Vladimir\Desktop\Pапка\UDPChat\UDPChat\UDPChat\bin\Debug\UDPChat.exe.config
+C:\Users\Vladimir\Desktop\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.exe
+C:\Users\Vladimir\Desktop\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.pdb
+C:\Users\Vladimir\Desktop\Pапка\UDPChat\UDPChat\UDPChat\bin\Debug\UDPChat.exe
+C:\Users\Vladimir\Desktop\Pапка\UDPChat\UDPChat\UDPChat\bin\Debug\UDPChat.pdb
+C:\Users\Vladimir\Desktop\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.Form1.resources
+C:\Users\Vladimir\Desktop\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\SomeProjects\Pапка\UDPChat\UDPChat\UDPChat\bin\Debug\UDPChat.exe.config
+C:\Users\Vladimir\Desktop\SomeProjects\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.exe
+C:\Users\Vladimir\Desktop\SomeProjects\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.pdb
+C:\Users\Vladimir\Desktop\SomeProjects\Pапка\UDPChat\UDPChat\UDPChat\bin\Debug\UDPChat.exe
+C:\Users\Vladimir\Desktop\SomeProjects\Pапка\UDPChat\UDPChat\UDPChat\bin\Debug\UDPChat.pdb
+C:\Users\Vladimir\Desktop\SomeProjects\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\SomeProjects\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.Form1.resources
+C:\Users\Vladimir\Desktop\SomeProjects\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\SomeProjects\Pапка\UDPChat\UDPChat\UDPChat\obj\Debug\UDPChat.csproj.GenerateResource.Cache
